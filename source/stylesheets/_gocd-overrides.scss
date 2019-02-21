@@ -59,7 +59,6 @@ blockquote + .highlight {
   padding: 0 $main-padding;
   box-sizing: border-box;
   display: block;
-  text-shadow: $main-embossed-text-shadow;
 
   @extend %left-col;
 }

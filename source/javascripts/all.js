@@ -1,7 +1,2 @@
-//= require ./lib/_energize
-//= require ./app/_lang
+//= require ./all_nosearch
 //= require ./app/_search
-//= require ./app/_toc
-//= require ./app/_version_helper
-//= require ./app/_popover
-//= require ./app/_gdpr-banner
